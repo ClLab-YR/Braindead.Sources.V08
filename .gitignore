@@ -1,0 +1,23 @@
+# Win Git VS VSCode
+[Dd]esktop.ini
+.vs/
+.vscode/
+*.code-workspace
+*.log
+
+# Python
+__pycache__/
+*.py*
+
+# Main
+test*.*
+
+# Others
+*.lnk
+*.dat
+*.exe
+*.dll
+*.txt
+*.htm*
+*.png
+
